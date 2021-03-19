@@ -1,2 +1,2 @@
-# Gestao de ingredientes
+# Gestão de ingredientes
  repositorio projeto ads 
